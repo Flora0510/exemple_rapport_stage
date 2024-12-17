@@ -1,4 +1,6 @@
 # Autoévaluation finale
+Boisvert, L. (2024) Autoévaluation finale. Département intégration multimédia. Collège Montmorency. Sous licence CC BY-NC 4.0
+
 #### Ce milieu de travail a répondu à mes attentes initiales:
 - [ ] Entièrement
 - [ ] Plutôt bien
